@@ -1,6 +1,6 @@
 ![MasterHead](https://s3.ap-southeast-1.amazonaws.com/chanceupon/public/images/main_image/blogs/40/original/cu-chatbot.gif?1685790800)
 <h1 align="center">Hi 👋, I'm Samir Fezani</h1>
-<h3 align="center">A 23-year-old student 👨‍🎓 and application developer based in Paris 🗼. My world revolves around code and creativity 💻✨. I love diving into the latest tech trends 🚀 and having chats with fellow developers 👨‍💻. Let's shape the future of technology together! ☕🌐"</h3>
+<h3 align="center">A 23-year-old student 👨‍🎓 and aspiring architect ✨ of systems, networks 🌐, and databases at EPSI 👨‍💻. On the path to becoming a guardian of cybersecurity 🤖. Enthusiastic about the Python world 🐍, my realm is a fusion of code and creativity 💻✨. Exploring the latest tech trends 🚀 and engaging in conversations with fellow developers 👨‍💻 are my passions. Let's collaboratively shape the future of technology together! ☕🌐"</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
